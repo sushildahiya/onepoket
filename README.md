@@ -1,4 +1,4 @@
-# onepoket
+# Onepoket
 Onepoket assessment
 
 ## Task 1: Basic Node.js Server
