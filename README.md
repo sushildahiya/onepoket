@@ -26,4 +26,3 @@ Create a Node.js script that reads a text file named "data.txt" and counts the n
 
    ### node index.js
 
-   ### npm start  
